@@ -169,7 +169,7 @@ body {
 }
 
 .contactPage {
-    min-height: 600px;
+    min-height: 500px;
 }
 
 .contactForm {
@@ -190,6 +190,16 @@ body {
 
 label {
     color: wheat;
+}
+
+.form-entry {
+    width: 100%;
+    margin-top: 50px;
+    vertical-align: top;
+}
+
+.submitButton {
+    margin-top: 30px;
 }
 
 i {
